@@ -2,7 +2,9 @@
 
 API para trazer os filmes mais populares atuais! API utilizada, The Movie Database => https://www.themoviedb.org
 
-![82B8615C-AE3F-46EB-98CB-5E8CFBEA5F4A_1_105_c](https://user-images.githubusercontent.com/91801482/177432452-6f7a86eb-f8ed-437d-8d86-955e90489ffc.jpeg)
+# Tela Inicial
+
+![image](https://user-images.githubusercontent.com/91801482/178795913-838ba4d9-12c1-4162-a4d7-b88f708922ef.png)
 
 <h1> Instruções de Clone </h1>
 Após clone do projeto
